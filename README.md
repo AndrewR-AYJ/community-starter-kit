@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+This bot acts as a community bot for people on my page.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+It will help whoever is on my page get around and find what they need.
 
 ## Getting started
 
