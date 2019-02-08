@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+When issue is created: You created issue (issue's name is shown on screen).
+When pull request is created: You created pull request (pull request's name is shown on screen).
+When pull request is merged: You merged pull request (pull request's name is shown on screen).
