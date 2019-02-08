@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-This bot acts as a community bot for people on my page.
+This is a bot developped by Andrew Rusu. Welcome to our program.
 
 ## What it does
 
-It will help whoever is on my page get around and find what they need.
+This bot will notify of the user when they create something on GitHub, such as an issue, a pull request, and etc.
+It will also notify users when they merge pull requests.
 
 ## Getting started
 
